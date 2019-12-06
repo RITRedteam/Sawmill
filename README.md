@@ -5,5 +5,5 @@ ELK stack for hacking. Logs everything going on within the competition. Shows us
 sudo docker-compose up
 
 # References
-+ DataGuidelines.txt contains what the logs should look at 
++ DataGuidelines.txt contains what the logs should look like 
 + All basic Elastic Search tools apply
